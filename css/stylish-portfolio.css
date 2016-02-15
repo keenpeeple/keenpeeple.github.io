@@ -184,6 +184,10 @@ hr.small {
     margin-bottom: 30px;
 }
 
+.service-item .fa-stack-fa-4x {
+    color: #FFA62F;
+}
+
 /* Callout */
 
 .callout {
