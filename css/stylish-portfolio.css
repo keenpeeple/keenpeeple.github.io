@@ -184,7 +184,19 @@ hr.small {
     margin-bottom: 30px;
 }
 
-.service-item .fa-stack-fa-4x {
+.service-item .fa-cloud {
+    color: #FFA62F;
+}
+
+.service-item .fa-compass {
+    color: #FFA62F;
+}
+
+.service-item .fa-flask {
+    color: #FFA62F;
+}
+
+.service-item .fa-shield {
     color: #FFA62F;
 }
 
